@@ -1,0 +1,32 @@
+# ============================================
+# Causal Analysis System Requirements
+# Python 3.8+ Required
+# ============================================
+
+# [OPTIONAL] Machine Learning Components
+# Uncomment these if you want semantic search capability
+# Note: This will download ~500MB of models on first run
+# ---------------------------------------------
+# sentence-transformers>=2.2.2
+# torch>=2.0.0
+# transformers>=4.30.0
+# huggingface-hub>=0.16.0
+
+# [OPTIONAL] Data Analysis
+# For evaluation metrics and reporting
+# ---------------------------------------------
+numpy>=1.24.0
+pandas>=2.0.0
+
+# [OPTIONAL] Development Tools
+# For Jupyter notebook support
+# ---------------------------------------------
+# jupyter>=1.0.0
+# ipykernel>=6.25.0
+# notebook>=7.0.0
+
+# ============================================
+# NOTE: The system works WITHOUT any of these!
+# It will automatically fall back to keyword-based
+# retrieval if sentence-transformers is not installed
+# ============================================
