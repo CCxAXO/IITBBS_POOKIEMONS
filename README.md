@@ -132,4 +132,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## Authors
 
-This system was developed for the IIT Hackathon 2025.
+This system was developed for the IITBBS Hackathon 2026 by team Pookiemons.
