@@ -3,7 +3,7 @@ Causal Analysis System for Customer Service Conversations
 """
 
 __version__ = "1.0.0"
-__author__ = "Your Team Name"
+__author__ = "Pookiemons"
 
 from .task1_retrieval import ConversationRetriever
 from .task2_causal_analysis import CausalAnalyzer
